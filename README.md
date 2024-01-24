@@ -31,3 +31,6 @@ Join [our Discord server](https://discord.gg/Sh67Tca) to talk to our team!
 ## Changelog
 
 View the [releases page on GitHub](https://github.com/pupilfirst/pupilfirst/releases) to view the full changelog.
+
+## Clone
+First clone 24 January 2024
